@@ -8,4 +8,4 @@ Variable provides a non-random amount of variance to the mpg values in the datas
 
 The slope of the linear model is not considered zero, because 
 
-This linear model predict mpg of MechaCar prototype effectively because
+This linear model predict mpg of MechaCar prototype effectively because the multiple R-squared is small, 0.07923.
