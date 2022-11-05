@@ -39,4 +39,14 @@
 -  However, p-value for lot 3 is 0.16 is larger than alpha, suggesting that we don't have enough evidence to reject the null hypothesis. There is no difference between lot 3 and the total lot. 
 
 
+## Study Design: MechaCar vs Competition 
+
+1. To determine whether the MechaCar cost less than compared to its competition.
+
+2. The null hypothesis states that there is no difference in cost between Mechacar and its competition.  The alternative hypthesis states that Mechacar costs less than its competition. 
+
+3. Pair-wise t-test to test the hypothesis
+
+4. price at the time of purchase and price of maintenance.
+
 
