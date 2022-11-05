@@ -23,4 +23,7 @@ Based on the Total summary table above, the variance is 62.29, which meets the d
 
 Based on the Lot summary table above, the variance of suspension coils for lots 1 and 2 are both less than 100 pounds per square inch.  However, the variance for lot 3 is 170.29, which fails to meet the design specification.
 
+## T-tests on suspension coils
+![Screen Shot 2022-11-05 at 4 48 24 PM](https://user-images.githubusercontent.com/108419097/200141078-c6cf5b79-9c9d-4a0c-b58d-2116805f62fa.png)
+
 
