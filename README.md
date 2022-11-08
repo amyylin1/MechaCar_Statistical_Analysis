@@ -25,17 +25,17 @@
 
 ## T-tests on suspension coils
 
-#### T-test on all lots
+### T-test on all lots
 ![Screen Shot 2022-11-05 at 5 10 40 PM](https://user-images.githubusercontent.com/108419097/200141449-57cbfaf3-4eba-4365-bb09-5917b5ea7bca.png)
 
-- The p-value for all lots is 1, larter than alpha, the significance level. Therefore, we don't have enough evidence to reject the null hypothesis and there is no difference between all lots.
+- The p-value for all lots is 1, larger than alpha, the significance level. Therefore, we don't have enough evidence to reject the null hypothesis and there is no difference between all lots.
 
-#### T-tests on individual lots
+### T-tests on individual lots
 ![Screen Shot 2022-11-05 at 4 48 24 PM](https://user-images.githubusercontent.com/108419097/200141078-c6cf5b79-9c9d-4a0c-b58d-2116805f62fa.png)
 
 - The p-value for lots 1 and 2 are smaller than alpha, the significance level. Therefore, we have enough evidence to reject the null hypthesis.  There is a difference between lots1/2 and the total lot.
 
--  However, p-value for lot 3 is 0.16 is larger than alpha, suggesting that we don't have enough evidence to reject the null hypothesis. There is no difference between lot 3 and the total lot. 
+-  However, p-value for lot 3 is 0.16 and is larger than alpha, suggesting that we don't have enough evidence to reject the null hypothesis. There is no difference between lot 3 and the total lot. 
 
 
 ## Study Design: MechaCar vs Competition 
@@ -44,8 +44,8 @@
 
 2. The null hypothesis states that there is no difference in cost between Mechacar and its competition.  The alternative hypthesis states that Mechacar costs less than its competition. 
 
-3. Pair-wise t-test to test the hypothesis
+3. Statistical test:  pair-wise t-test 
 
-4. price at the time of purchase and price of maintenance.
+4. Data: the price at the time of purchase and the price of maintenance
 
 
