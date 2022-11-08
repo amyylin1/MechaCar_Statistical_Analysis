@@ -4,11 +4,11 @@
 
 ![Screen Shot 2022-11-04 at 5 49 30 PM](https://user-images.githubusercontent.com/108419097/200080113-762b8a34-541e-4dc6-9fef-2c9973514a20.png)
 
-1. The variable provides a non-random amount of variance is alpha, the significance level, which is 0.05 at 95% confidence level.  If we have enough evidence to reject the null hypothesis, there is 5% chance (1 event in 20 events) that the result we observed is due to random chance. 
+1. The variable provides a non-random amount of variance is alpha, the significance level, which is 0.05 at 95% confidence level.  If we have enough evidence to reject the null hypothesis, there is 5% chance (1 event in 20 events) that the result we observed is due to random chances. 
 
-2. The slope of the linear model is not considered zero, because all the coefficients are close to zero and yet not equal to zero. 
+2. The slope coefficient of the linear model is very small, close to zero. 
 
-3. This linear model predict mpg of MechaCar prototype effectively because the multiple R-squared is small, 0.07923, suggesting that the linear fitting is optimal.
+3. This linear model does not predict mpg of MechaCar prototype effectively because of the low the R-squared value (0.079).  The lower the R-squared value, the less correlation is between the two variables.
 
 
 ## Summary statistics on suspension coils
