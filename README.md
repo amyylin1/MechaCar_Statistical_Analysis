@@ -44,8 +44,8 @@
 
 2. The null hypothesis states that there is no difference in cost between Mechacar and its competition.  The alternative hypthesis states that Mechacar costs less than its competition. 
 
-3. Statistical test:  pair-wise t-test 
+3. Statistical test:  student's t-test to determine whether there is a difference betwen the means of two samples. 
 
-4. Data: the price at the time of purchase and the price of maintenance
+4. Data: the price at the time of purchase and the price of maintenance at the same year with a sample size of n=50 per group. 
 
 
