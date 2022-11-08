@@ -14,12 +14,11 @@
 ## Summary statistics on suspension coils
 
 ### Total summary
-<img width="610" alt="Screen Shot 2022-11-05 at 3 53 30 PM" src="https://user-images.githubusercontent.com/108419097/200138573-498147ec-9dbc-4a58-b9ea-4c155e95f6b3.png">
+![Screen Shot 2022-11-07 at 11 19 06 PM](https://user-images.githubusercontent.com/108419097/200474123-286572bd-9157-43f7-b228-284d02e06334.png)
 
 - Based on the Total summary table above, the variance is 62.29, which meets the design specification of 100 pounds per sqaure inch. 
 
 ### Lot summary
-
 <img width="605" alt="Screen Shot 2022-11-05 at 3 49 08 PM" src="https://user-images.githubusercontent.com/108419097/200138570-917dd834-03ff-4b20-9dec-51bbab14b1d2.png">
 
 - Based on the Lot summary table above, the variance of suspension coils for lots 1 and 2 are both less than 100 pounds per square inch.  However, the variance for lot 3 is 170.29, which fails to meet the design specification.
